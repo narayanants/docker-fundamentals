@@ -8,3 +8,13 @@ Docker Registry => Docker Repository => Docker Image => Tag: v1
 
 
 * Docker hub is similar to Github but for Docker Images
+
+Automated Workflows:
+====================
+
+* Push Code to Github Master Branch
+* Kick of CI Tasks
+* Build Image
+* Send Webhook
+* Receive Webhook
+* Restart Containers
