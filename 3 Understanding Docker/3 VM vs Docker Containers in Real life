@@ -1,0 +1,15 @@
+VMs vs Docker Containers in Real Life:
+======================================
+
+* Ubuntu in Production
+*   
+    APP1
+    Bins/Libs
+    Docker Daemon
+    Ubuntu 16.04
+    Infra
+
+* Package manager for Entire applications
+* VM's isolate systems
+* Docker Isolates applications
+* Build once and deploy anywhere
