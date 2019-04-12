@@ -1,0 +1,10 @@
+Downloading and Storing Docker Images
+======================================
+
+* Docker pull and stores image from Docker Hub
+
+
+Docker Registry => Docker Repository => Docker Image => Tag: v1
+
+
+* Docker hub is similar to Github but for Docker Images
