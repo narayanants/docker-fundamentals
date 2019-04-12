@@ -20,5 +20,5 @@ VM's vs Containers:
 
 
 
-    VM as houses
-    Docker Containers as apartments
+    VM as houses which are fully contained
+    Docker Containers as apartments - have shared infrastructure
