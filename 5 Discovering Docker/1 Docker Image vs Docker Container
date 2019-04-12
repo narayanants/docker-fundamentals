@@ -1,0 +1,14 @@
+Docker Image vs Docker Container:
+=================================
+
+* They are different
+* Docker Image is everything you need to run the application
+* No state and doesn't change
+* Download build and run
+* One image, many containers
+* Containers are immutable
+
+
+
+    Image: class
+    Container : instance of the class
