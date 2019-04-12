@@ -1,0 +1,16 @@
+Visualizing Docker Architecture:
+================================
+
+    
+     Client (Docker CLI)
+     REST API
+     Docker Daemon
+
+
+Client              Docker_HOST         REGISTRY
+
+docker pull         Docker Daemon
+docker build        Containers
+docker run          Images
+
+* Docker Daemon and CLI are written in GoLang and are Open Source
