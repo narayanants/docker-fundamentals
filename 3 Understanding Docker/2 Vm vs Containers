@@ -1,0 +1,19 @@
+VM's vs Containers:
+====================
+
+* Docker Containers are not VM's
+* Running a VM on server
+
+
+
+    Isolated Systems                            Isolated Applications
+
+    Application                     
+    Bins/Lib                                    Application
+    Guest OS                                    Bins/Lib (Docker Images)
+    Hypervisor                                  Docker Daemon
+    Host OS                                     Host OS
+    Infra                                       Infra
+
+
+    VM's                                        Docker
