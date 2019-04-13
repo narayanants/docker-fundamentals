@@ -4,7 +4,7 @@ Docker Image vs Docker Container:
 * They are different
 * Docker Image is everything you need to run the application
 * No state and doesn't change
-* Download build and run
+* Download build and run - Docker Image
 * One image, many containers
 * Containers are immutable
 
