@@ -1,0 +1,4 @@
+Building and Pushing Docker Images
+==================================
+
+docker inspect <image_id>
