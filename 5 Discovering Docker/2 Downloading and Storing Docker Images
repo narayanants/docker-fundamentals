@@ -1,7 +1,7 @@
 Downloading and Storing Docker Images
 ======================================
 
-* Docker pull and stores image from Docker Hub
+* Docker pulls and stores image from Docker Hub
 
 
 Docker Registry => Docker Repository => Docker Image => Tag: v1
