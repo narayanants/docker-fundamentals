@@ -1,0 +1,14 @@
+Explaining the Docker Build Process
+===================================
+
+2 ways to build a docker image
+
+    - docker commit 
+    - Dockerfile - Blueprint for your docker image
+
+    Dockerfile is superior
+
+
+    Docker images has layers
+
+    
