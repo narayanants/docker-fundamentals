@@ -1,0 +1,4 @@
+Running Docker Containers
+==========================
+
+docker run -it --rm --name nodeapp -p 6000:6000 -d <image_id> sh
